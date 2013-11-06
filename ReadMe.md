@@ -11,7 +11,7 @@ project-tag - Group your repos together nicely
 
 ## Description
 
-If you are like me you have dozenss of projects involving hundreds of repos.
+If you are like me you have dozens of projects involving hundreds of repos.
 Many repos serve several projects. How do you organize them well?
 
 This idea came to me in a dream. Symlinks are man's best friend. Here's how I
