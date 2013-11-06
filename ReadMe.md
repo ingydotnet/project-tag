@@ -20,6 +20,6 @@ use them:
 I clone all my repos into `~/src/` including this one. I rename the dir `++` so
 it displays at the top and stands out. This repo contains tag-names, and
 anything related to that tag becomes a symlink in that dir. This allows you to
-easily assign multiple tags toa repo.
+easily assign multiple tags to a repo.
 
 So simple. So powerful. Enjoy.
